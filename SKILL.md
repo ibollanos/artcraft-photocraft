@@ -5,7 +5,7 @@ description: Edit, retouch, composite, or export photos in PhotoCraft. Use when 
 
 # PhotoCraft
 
-PhotoCraft targets 1:1 Photoshop parity, and its command ids, labels and menu paths follow Photoshop's menus.
+PhotoCraft targets 1:1 parity with Adobe Photoshop 2026 (27.11.0), and its command ids, labels and menu paths follow that version's menus.
 
 If neither `photocraft-live` nor `photocraft-headless` is in your tool list, stop and ask the user to register one. Do not substitute shell image tools.
 
