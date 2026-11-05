@@ -17,6 +17,10 @@ Use `photocraft-headless` for unattended work, batch jobs, or when no window is 
 
 When unsure, call `session_list` on `photocraft-live`. If it fails, the app is not running, so use headless. Pick one transport for the task and do not mix them on one document.
 
+## Choose the tool for the work
+
+PhotoCraft is the right tool for masks, edge refinement, spot healing, content-aware fill and layer work. Python is for grade math, grain, analysis and batch.
+
 ## Plan in Photoshop terms
 
 Write the task as an ordered Photoshop workflow first: menu path, tool, values, and the expected result.
